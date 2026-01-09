@@ -156,18 +156,10 @@ Elaboré listas de comprobación para validar el diseño del formulario de reser
   </a>  
 </div>
 
----
-
-## 📄 CV Profesional
-
-<p align="center">
-  <a href="docs/CV - Jesus Hernandez CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20mi%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PDF Badge"/>
-  </a>
+>
 </p>
 
 ---
-
 
 ## 📄 CV Profesional
 
