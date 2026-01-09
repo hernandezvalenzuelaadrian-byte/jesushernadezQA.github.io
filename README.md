@@ -87,6 +87,87 @@ Además, cuento con experiencia en:
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio"/>
 </p>
 
+---
+
+## 🛒 Urban.Grocers – Aplicación web para comprar comestibles
+Este proyecto consistio en la validación del backend de **Urban.Grocers**, una aplicación web para la compra de comestibles. Estudié la documentación técnica en **Apidoc**, analicé los requisitos de una nueva funcionalidad y diseñé una **lista de comprobación** centrada en flujos de datos y respuestas esperadas.
+
+Ejecuté pruebas a través de **Postman**, cubriendo distintos escenarios positivos y negativos, y reporté los errores detectados en **JIRA** con la documentación correspondiente. El enfoque fue garantizar la calidad y estabilidad de los endpoints antes del despliegue.
+
+**Resultados destacados:**
+- 📄 Analicé la documentación técnica del backend y API.  
+- ✔️ Diseñé **56 casos de prueba**, identificando y reportando **19 errores en JIRA**.
+- 🔍 Probé **endpoints en Postman** y documenté errores en **JIRA**, incluyendo estructura de JSON y respuestas esperadas.
+
+**Aptitudes:**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Test Cases](https://img.shields.io/badge/Test%20Cases-6E4AFF?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API%20Testing-6E4AFF?style=for-the-badge)
+![Functional Testing](https://img.shields.io/badge/Functional%20Testing-008080?style=for-the-badge)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+**Enlace:** [Documentación](https://docs.google.com/spreadsheets/d/1DTwtMgCBP2iIuLH3cbdvLvf_OywZWA-lRJ-IN9Qa32s/edit?usp=drive_link)
+
+**Capturas del proyecto:**  
+
+<div style="display:flex; gap:10px;">
+  <a href="assets/img/urban_grocer.PNG" target="_blank">
+    <img src="assets/img/urban_grocer.PNG" alt="APK en Android Studio" width="500"/>
+  </a>  
+</div>
+<div style="display:flex; gap:10px;">
+  <a href="assets/img/urban_grocer_informe.PNG" target="_blank">
+    <img src="assets/img/urban_grocer_informe.PNG" alt="APK en Android Studio" width="500"/>
+  </a>  
+</div>
+
+
+## 🚕 Urban.Routes – Aplicación web para reserva de taxis
+Realicé pruebas de regresión para **Urban.Routes**, una app que calcula rutas, duración y precios para distintos medios de transporte. Validé la lógica de negocio mediante técnicas como **clases de equivalencia** y **valores límite**, diseñando casos de prueba detallados y un **diagrama de flujo** para la funcionalidad de auto compartido.
+
+Elaboré listas de comprobación para validar el diseño del formulario de reserva, las ventanas emergentes, y funciones clave como “Agregar tarjeta”, “Método de pago” y el botón "Reservar". Finalmente, ejecuté las pruebas funcionales en dos entornos (Chrome y Firefox con resoluciones específicas), y documenté errores encontrados en **JIRA**.
+
+**Resultados destacados:**
+- ✔️ Diseñé listas de comprobación para UI y flujos críticos.  
+- 🧪 Preparé y ejecuté **casos de prueba positivos y negativos**.  
+- 🧭 Validé funcionalidades clave en diferentes resoluciones y navegadores.  
+- 🐞 Documenté errores funcionales y de interfaz en **JIRA**.
+
+**Aptitudes:**
+
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge)
+![Test Planning](https://img.shields.io/badge/Test%20Planning-1E90FF?style=for-the-badge)
+![Documentation](https://img.shields.io/badge/Documentation-FFD700?style=for-the-badge)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+**Enlace:** [Documentación](https://docs.google.com/spreadsheets/d/1zSutwB5dS5DZgva95hHhgNdYOfPCTkP0NflHO5MgJ14/edit?usp=drive_link)
+
+**Capturas del proyecto:**  
+
+<div style="display:flex; gap:10px;">
+  <a href="assets/img/urban_routes.PNG" target="_blank">
+    <img src="assets/img/urban_routes.PNG" alt="APK en Android Studio" width="500"/>
+  </a>  
+</div>
+<div style="display:flex; gap:10px;">
+  <a href="assets/img/urban_routes_informe.PNG" target="_blank">
+    <img src="assets/img/urban_routes_informe.PNG" alt="APK en Android Studio" width="500"/>
+  </a>  
+</div>
+
+---
+
+## 📄 CV Profesional
+
+<p align="center">
+  <a href="docs/CV - Jesus Hernandez CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20mi%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PDF Badge"/>
+  </a>
+</p>
+
+---
+
 
 ## 📄 CV Profesional
 
