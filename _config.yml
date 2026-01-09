@@ -1,3 +1,8 @@
+title: "Jesus Adrian Hernandez Valenzuela"
+description: "No solo basta con aprender sino también saber como ejecutarl el conocimiento en casos reales!"
+logo:
+
+#show_downloads: true
+#google_analytics:
 theme: jekyll-theme-minimal
-title: Jesus Hernandez's homepage
-description: Este es mi portafolio, no solo es aprender También es saber ejecutarlo!
+remote_theme: pages-themes/minimal@v0.2.0
