@@ -123,6 +123,7 @@ Ejecuté pruebas a través de **Postman**, cubriendo distintos escenarios positi
 </div>
 
 
+
 ## 🚕 Urban.Routes – Aplicación web para reserva de taxis
 Realicé pruebas de regresión para **Urban.Routes**, una app que calcula rutas, duración y precios para distintos medios de transporte. Validé la lógica de negocio mediante técnicas como **clases de equivalencia** y **valores límite**, diseñando casos de prueba detallados y un **diagrama de flujo** para la funcionalidad de auto compartido.
 
@@ -155,9 +156,6 @@ Elaboré listas de comprobación para validar el diseño del formulario de reser
     <img src="assets/img/urban_routes_informe.PNG" alt="APK en Android Studio" width="500"/>
   </a>  
 </div>
-
->
-</p>
 
 ---
 
