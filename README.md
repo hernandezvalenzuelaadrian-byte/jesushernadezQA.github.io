@@ -86,3 +86,23 @@ Además, cuento con experiencia en:
   <img src="https://img.shields.io/badge/AI%20Prompts-7A42F4?style=for-the-badge&logo=openai&logoColor=white" alt="AI Prompts"/>
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio"/>
 </p>
+
+
+## 📄 CV Profesional
+
+<p align="center">
+  <a href="docs/Jesus Hernandez CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20mi%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PDF Badge"/>
+  </a>
+</p>
+
+---
+
+## 📬 ¿Trabajamos juntos?
+
+Gracias por tomarte el tiempo de visitar mi portafolio.  
+Estoy en búsqueda activa de oportunidades como **QA Manual**, **QA Automatizador Junior** o roles híbridos, donde pueda contribuir con análisis detallado, pensamiento crítico y enfoque en la mejora continua de la calidad del software.
+
+Me interesa colaborar con **consultoras TI**, **Industria del Gaming**, **startups con visión tecnológica** o **instituciones financieras** que valoren procesos de testing bien estructurados y documentación clara.
+
+<p align="center"><strong>✨ ¡Conversemos! Estoy listo para sumarme a tu equipo.</strong></p>
